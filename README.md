@@ -1,2 +1,2 @@
-# kr_quick_graph
+# kora_quickgraph
 Matplotlib simple graph templates
