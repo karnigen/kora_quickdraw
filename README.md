@@ -1,8 +1,8 @@
-# kora_quickgraph
+# kora_quickdraw
 Matplotlib simple graph template
 
 # Install
-`pip install kora_quickgraph`
+`pip install kora_quickdraw`
 
 # Usage
 There two commands
